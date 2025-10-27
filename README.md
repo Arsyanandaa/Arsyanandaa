@@ -1,73 +1,41 @@
-# 👋 Hello World! I'm **Mahligai Arsya Nanda**  
+👋 Hello World! I'm Mahligai Arsya Nanda
 
-🎮 *Game Developer | 3D Artist | Game Programmer* 
+🛰️ Network Engineer | IT Infrastructure Builder
 
----
+🚀 About Me
 
-## 🚀 About Me  
-- 🎮 Passionate about **Game Development** and building immersive experiences  
-- 🖌️ Skilled in **3D Asset Creation** with *Blender*  
-- ⚙️ Experienced with Unreal Engine for gameplay & systems  
-- 🌱 Currently learning **Fullstack Web Development**  
-- 🌐 I also enjoy **building websites** and exploring modern web frameworks  
-- 🤖 Aspiring to become a **Machine Learning Engineer** in the future  
+🌐 Passionate about Networking & Infrastructure Engineering
 
----
+🧠 Skilled in Network Design, VLAN, Routing, and Switching
 
-## 🛠️ Tech & Tools I Use  
-<p align="left">
-  <!-- Game Development -->
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+⚙️ Experienced using Cisco Packet Tracer, MikroTik, and Wireshark
 
-  <!-- Web Dev -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+🧩 Currently learning Network Automation & Scripting (Python, Bash)
 
----
+🔐 Interested in Cyber Security and future network defense systems
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=radical" alt="Arsya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+🧭 My goal: to become a Senior Network Engineer and work internationally 🌏
 
----
+🛠️ Tools & Technologies
+<p align="left"> <!-- Networking --> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/MikroTik-293241?style=for-the-badge&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> <!-- Programming / Automation --> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!-- Tools --> <img src="https://img.shields.io/badge/Packet_Tracer-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=tokyonight" alt="Arsya's GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/> </p>
+🛰️ Network Projects Progress
+Project Type	Status	Description
+VLAN Configuration	✅	Basic VLAN setup with inter-VLAN routing
+Static & Dynamic Routing	🏗️	Implementing RIP and OSPF protocols
+DHCP & NAT Setup	✅	Configured IP distribution and translation
+Firewall & Security	🏗️	Testing ACL and port security rules
+Network Automation	🌱	Learning Python for network scripting
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/mahligai-arsya-nanda-454659336/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:arsyanandaa10@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahligai-arsya-nanda-454659336/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arsyanandaa10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⚡ **Fun Fact**: I love creating worlds & gameplay systems from scratch – the process is as fun as playing the game itself!  
-
-![Mahligai Arsya Nanda](img/Linkedin%20Profile%20Header%20Mahligai%20Arsya%20Nanda.png)
-![pacman graph](https://github.com/Arsyanandaa/Arsyanandaa/blob/output/pacman-contribution-graph-dark.svg)
+⚡ Fun Fact:
+Configuring a network feels like solving a puzzle — one wrong cable, and the whole system goes offline 😆
 
 
 
 
+Mau gw tambahin bagian “Network Certification Goals” juga bro? (kayak CCNA, CompTIA, CEH, dll) biar keli
