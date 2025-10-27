@@ -28,14 +28,9 @@ DHCP & NAT Setup	✅	Configured IP distribution and translation
 Firewall & Security	🏗️	Testing ACL and port security rules
 Network Automation	🌱	Learning Python for network scripting
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" /> </p>
 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/mahligai-arsya-nanda-454659336/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:arsyanandaa10@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ⚡ Fun Fact:
 Configuring a network feels like solving a puzzle — one wrong cable, and the whole system goes offline 😆
 
-
-
-
-Mau gw tambahin bagian “Network Certification Goals” juga bro? (kayak CCNA, CompTIA, CEH, dll) biar keli
