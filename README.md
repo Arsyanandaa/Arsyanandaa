@@ -57,7 +57,7 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=ai-cs-topup-game" width="40%"/>
 </p>
 
 <!-- Activity Graph -->
