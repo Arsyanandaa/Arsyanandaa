@@ -45,7 +45,7 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 ## ✨ Code Playtime
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=A855F7&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=220&lines=☕+Arsya's+Dev+Terminal;+;%24+whoami;+→+Mahligai+Arsya+Nanda+(アルーシャ);+;%24+cat+role.txt;+→+Backend+Engineer+%40+CCIC+Changzhou%2C+China;+;%24+tech+--stack;+→+Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+REST+API;+;%24+git+status;+→+always+learning%2C+always+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=whoami+→+Mahligai+Arsya+Nanda;role+→+Backend+Engineer;company+→+CCIC+Changzhou%2C+China;stack+→+Java+%7C+Spring+Boot+%7C+PostgreSQL;status+→+always_learning+%E2%98%95" alt="Typing SVG" />
 </p>
 
 <p align="center">
