@@ -2,7 +2,7 @@
 <h3 align="center">🖥️ Backend Engineer | Spring Boot Developer | REST API Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+%7C+PostgreSQL;Building+scalable+server-side+apps;Open+to+Work+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+%7C+PostgreSQL;Building+scalable+server-side+apps;Working+at+CCIC+Changzhou%2C+China+%F0%9F%87%A8%F0%9F%87%B3" alt="Typing SVG" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ public class HelloArsya {
         user.put("name", name);
         user.put("role", "Backend Engineer");
         user.put("stack", "Spring Boot + PostgreSQL");
-        user.put("open_to_work", "Australia 🇦🇺");
+        user.put("works_at", "CCIC Changzhou, China 🇨🇳");
         return new ApiResponse("200", "OK", user);
     }
 
@@ -72,23 +72,10 @@ public class HelloArsya {
 ```
 
 <p align="center">
-  <a href="https://onecompiler.com/java?code=public+class+HelloArsya+%7B%0A%0A++++record+ApiResponse(String+status%2C+String+message%2C+Object+data)+%7B%7D%0A%0A++++static+ApiResponse+getUser(String+name)+%7B%0A++++++++if+(name+%3D%3D+null+%7C%7C+name.isBlank())+%7B%0A++++++++++++return+new+ApiResponse(%22400%22%2C+%22Bad+Request%22%2C+%22Name+cannot+be+empty!%22)%3B%0A++++++++%7D%0A++++++++var+user+%3D+new+java.util.HashMap%3CString%2C+String%3E()%3B%0A++++++++user.put(%22name%22%2C+name)%3B%0A++++++++user.put(%22role%22%2C+%22Backend+Engineer%22)%3B%0A++++++++user.put(%22stack%22%2C+%22Spring+Boot+%2B+PostgreSQL%22)%3B%0A++++++++user.put(%22open_to_work%22%2C+%22Australia%22)%3B%0A++++++++return+new+ApiResponse(%22200%22%2C+%22OK%22%2C+user)%3B%0A++++%7D%0A%0A++++public+static+void+main(String%5B%5D+args)+%7B%0A++++++++var+response+%3D+getUser(%22Arsya+Nanda%22)%3B%0A++++++++System.out.println(%22Status++%3A+%22+%2B+response.status())%3B%0A++++++++System.out.println(%22Message+%3A+%22+%2B+response.message())%3B%0A++++++++System.out.println(%22Data++++%3A+%22+%2B+response.data())%3B%0A++++%7D%0A%7D">
+  <a href="https://onecompiler.com/java?code=public+class+HelloArsya+%7B%0A%0A++++record+ApiResponse(String+status%2C+String+message%2C+Object+data)+%7B%7D%0A%0A++++static+ApiResponse+getUser(String+name)+%7B%0A++++++++if+(name+%3D%3D+null+%7C%7C+name.isBlank())+%7B%0A++++++++++++return+new+ApiResponse(%22400%22%2C+%22Bad+Request%22%2C+%22Name+cannot+be+empty!%22)%3B%0A++++++++%7D%0A++++++++var+user+%3D+new+java.util.HashMap%3CString%2C+String%3E()%3B%0A++++++++user.put(%22name%22%2C+name)%3B%0A++++++++user.put(%22role%22%2C+%22Backend+Engineer%22)%3B%0A++++++++user.put(%22stack%22%2C+%22Spring+Boot+%2B+PostgreSQL%22)%3B%0A++++++++user.put(%22works_at", "CCIC Changzhou, China 🇨🇳");
     <img src="https://img.shields.io/badge/▶%20Run%20This%20Code-OneCompiler-A855F7?style=for-the-badge&logo=java&logoColor=white" alt="Run on OneCompiler"/>
   </a>
 </p>
-
----
-
-## ⏱️ My Coding Time (WakaTime)
-
-<p align="center">
-  <a href="https://wakatime.com/@Arsyanandaa">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arsyanandaa&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="60%"/>
-  </a>
-</p>
-
-> 🔧 **Setup WakaTime:** Daftar di [wakatime.com](https://wakatime.com) → install extension di VS Code → stats otomatis ke-track!  
-> Setelah daftar, ganti `Arsyanandaa` di URL atas dengan **username WakaTime** lo.
 
 ---
 
