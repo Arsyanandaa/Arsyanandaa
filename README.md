@@ -42,6 +42,14 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 
 ---
 
+## ⏱️ My Coding Time (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arsyanandaa&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="60%"/>
+</p>
+
+---
+
 ## 📈 My Stats
 
 <!-- GitHub Trophies -->
