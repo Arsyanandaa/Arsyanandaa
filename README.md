@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arsyanandaa/Arsyanandaa/main/img/walpaper%20github.jpg" width="100%" style="border-radius:12px"/>
+</p>
+
 👋 Hello World! I'm Mahligai Arsya Nanda
 <h3 align="center">🖥️ Backend Engineer | Spring Boot Developer | REST API Enthusiast</h3>
 
