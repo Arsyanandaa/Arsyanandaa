@@ -42,30 +42,32 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 
 ---
 
-## ✨ Code Playtime
+## 📈 My Stats
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=whoami+→+Mahligai+Arsya+Nanda;role+→+Backend+Engineer;company+→+CCIC+Changzhou%2C+China;stack+→+Java+%7C+Spring+Boot+%7C+PostgreSQL;status+→+always_learning+%E2%98%95" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
+<!-- Stats + Streak -->
 <p align="center">
-  <a href="https://onecompiler.com/java">
-    <img src="https://img.shields.io/badge/▶%20Try%20Java%20Playground-OneCompiler-A855F7?style=for-the-badge&logo=java&logoColor=white" alt="Run on OneCompiler"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyanandaa&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsyanandaa&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyanandaa&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 
 ---
 
