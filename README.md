@@ -79,6 +79,19 @@ public class HelloArsya {
 
 ---
 
+## ⏱️ My Coding Time (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com/@Arsyanandaa">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arsyanandaa&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="60%"/>
+  </a>
+</p>
+
+> 🔧 **Setup WakaTime:** Daftar di [wakatime.com](https://wakatime.com) → install extension di VS Code → stats otomatis ke-track!  
+> Setelah daftar, ganti `Arsyanandaa` di URL atas dengan **username WakaTime** lo.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
