@@ -46,25 +46,23 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║           ~ ARSYA'S DEVELOPER CARD ~                 ║
-║                                                      ║
-║   $ whoami                                           ║
-║   > Mahligai Arsya Nanda                             ║
-║                                                      ║
-║   $ cat role.txt                                     ║
-║   > Backend Engineer @ CCIC Changzhou, China         ║
-║                                                      ║
-║   $ tech --stack                                     ║
-║   > Java  |  Spring Boot  |  PostgreSQL              ║
-║   > REST API  |  Spring Security  |  JPA             ║
-║                                                      ║
-║   $ git log --oneline -1                             ║
-║   > Always learning, always building  ☕             ║
-║                                                      ║
-║   $ _                                                ║
-╚══════════════════════════════════════════════════════╝
+```json
+// GET /api/v1/developer/arsya
+// Response: 200 OK
+
+{
+  "status"     : "200 OK",
+  "developer"  : {
+    "name"     : "Mahligai Arsya Nanda",
+    "alias"    : "Arsya  (アルーシャ)",
+    "role"     : "Backend Engineer",
+    "company"  : "CCIC Changzhou, China",
+    "stack"    : ["Java", "Spring Boot", "PostgreSQL", "REST API"],
+    "traits"   : ["problem-solver", "clean-code", "scalable-systems"],
+    "status"   : "always_learning",
+    "coffee"   : true
+  }
+}
 ```
 
 </div>
