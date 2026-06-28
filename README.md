@@ -1,6 +1,9 @@
-# 👋 Hello World! I'm Mahligai Arsya Nanda
+👋 Hello World! I'm Mahligai Arsya Nanda
+<h3 align="center">🖥️ Backend Engineer | Spring Boot Developer | REST API Enthusiast</h3>
 
-## 💻 Backend Engineer | Spring Boot Developer | REST API Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%F0%9F%9A%80;Spring+Boot+%7C+REST+API+%7C+PostgreSQL;Building+scalable+server-side+apps;Open+to+Work+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -14,82 +17,101 @@ I specialize in developing RESTful APIs using **Spring Boot** and designing effi
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+**Languages**
 
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Backend**
 
-## Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p align="left">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-</p>
+**Database**
 
----
-
-## Database
-
-<p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Tools
+## ☕ Code Playtime — Try My Java!
 
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</p>
+> 🎮 **Live playground — no install needed, run it right now:**
 
----
+```java
+// 🚀 Arsya's Mini Spring-style REST Handler
+// Try tweaking the name or status below!
 
-# 📊 GitHub Stats
+public class HelloArsya {
+
+    record ApiResponse(String status, String message, Object data) {}
+
+    static ApiResponse getUser(String name) {
+        if (name == null || name.isBlank()) {
+            return new ApiResponse("400", "Bad Request", "Name cannot be empty!");
+        }
+        var user = new java.util.HashMap<String, String>();
+        user.put("name", name);
+        user.put("role", "Backend Engineer");
+        user.put("stack", "Spring Boot + PostgreSQL");
+        user.put("open_to_work", "Australia 🇦🇺");
+        return new ApiResponse("200", "OK", user);
+    }
+
+    public static void main(String[] args) {
+        var response = getUser("Arsya Nanda");
+        System.out.println("Status  : " + response.status());
+        System.out.println("Message : " + response.message());
+        System.out.println("Data    : " + response.data());
+    }
+}
+```
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight" height="165"/>
+  <a href="https://onecompiler.com/java?code=public+class+HelloArsya+%7B%0A%0A++++record+ApiResponse(String+status%2C+String+message%2C+Object+data)+%7B%7D%0A%0A++++static+ApiResponse+getUser(String+name)+%7B%0A++++++++if+(name+%3D%3D+null+%7C%7C+name.isBlank())+%7B%0A++++++++++++return+new+ApiResponse(%22400%22%2C+%22Bad+Request%22%2C+%22Name+cannot+be+empty!%22)%3B%0A++++++++%7D%0A++++++++var+user+%3D+new+java.util.HashMap%3CString%2C+String%3E()%3B%0A++++++++user.put(%22name%22%2C+name)%3B%0A++++++++user.put(%22role%22%2C+%22Backend+Engineer%22)%3B%0A++++++++user.put(%22stack%22%2C+%22Spring+Boot+%2B+PostgreSQL%22)%3B%0A++++++++user.put(%22open_to_work%22%2C+%22Australia%22)%3B%0A++++++++return+new+ApiResponse(%22200%22%2C+%22OK%22%2C+user)%3B%0A++++%7D%0A%0A++++public+static+void+main(String%5B%5D+args)+%7B%0A++++++++var+response+%3D+getUser(%22Arsya+Nanda%22)%3B%0A++++++++System.out.println(%22Status++%3A+%22+%2B+response.status())%3B%0A++++++++System.out.println(%22Message+%3A+%22+%2B+response.message())%3B%0A++++++++System.out.println(%22Data++++%3A+%22+%2B+response.data())%3B%0A++++%7D%0A%7D">
+    <img src="https://img.shields.io/badge/▶%20Run%20This%20Code-OneCompiler-A855F7?style=for-the-badge&logo=java&logoColor=white" alt="Run on OneCompiler"/>
+  </a>
 </p>
 
 ---
 
-# 🧪 Featured Projects
+## 📊 GitHub Stats
 
-| Project                        | Status         | Description                                                      |
-| ------------------------------ | -------------- | ---------------------------------------------------------------- |
-| 🛒 POS Backend API             | 🚧 In Progress | REST API for Point of Sale system using Spring Boot & PostgreSQL |
-| 🔐 Authentication Service      | ✅ Completed    | JWT Authentication, Login, Register, Role-Based Authorization    |
-| 🏫 School Management API       | 🚧 In Progress | Student, Teacher, Attendance, and Class Management               |
-| 💳 Payment Gateway Integration | 🚧 In Progress | QRIS Payment Simulation & Transaction API                        |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsyanandaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyanandaa&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mahligai-arsya-nanda-454659336/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:arsyanandaa10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyanandaa&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 📬 Connect With Me
 
-I enjoy designing clean backend architectures and turning complex business logic into simple, maintainable APIs.
+<p align="center">
+  <a href="mailto:arsyanandaa10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/arsyanandaa10_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Arsyanandaa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsyanandaa&color=A855F7&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>
