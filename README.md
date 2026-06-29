@@ -97,7 +97,7 @@ Currently working toward Senior Backend Engineer roles on large-scale, distribut
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsyanandaa&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Arsyanandaa&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
