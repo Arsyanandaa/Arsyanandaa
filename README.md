@@ -3,29 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%9A%99%EF%B8%8F;Spring+Boot+%7C+REST+API+Architect;Java+%7C+PostgreSQL+%7C+Microservices;Building+Scalable+Server-Side+Systems;Clean+Code+%E2%80%94+Solid+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=Mobile+Developer+%F0%9F%93%B1;React+Native+%7C+Expo+%7C+TypeScript;Building+Cross-Platform+Apps;Android+%2B+iOS+from+One+Codebase;Clean+Code+%E2%80%94+Smooth+UX" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Mahligai Arsya Nanda</h1>
-<h3 align="center">Backend Engineer · Spring Boot Developer · API Architect</h3>
+<h3 align="center">Mobile Developer · React Native · Expo</h3>
 
 <p align="center">
   <a href="mailto:arsyanandaa10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Arsyanandaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/arsyanandaa10_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://wakatime.com/@Arsyanandaa"><img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Arsyanandaa&color=6366F1&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Arsyanandaa&color=61DAFB&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
 
 ## About
 
-Backend engineer focused on designing and shipping production-grade APIs and server-side systems. I work primarily in the Java/Spring ecosystem — building services that are secure, observable, and straightforward to maintain.
+Mobile developer focused on building cross-platform apps with React Native and Expo — one codebase, running smoothly on both Android and iOS.
 
-My day-to-day involves REST API design, relational database modeling, and authentication/authorization flows using Spring Security. I care about writing code that the next engineer can understand without a tour.
+I enjoy turning ideas into apps that feel good to use: clean component structure, intuitive navigation, and responsive UI. I also have a backend background (Java/Spring, SQL), so I'm comfortable connecting apps to APIs and designing the data behind them.
 
-Currently working toward Senior Backend Engineer roles on large-scale, distributed systems.
+Currently leading a small team building **BandUp**, a gamified IELTS practice app, and growing toward a career in mobile development.
 
 ---
 
@@ -33,35 +33,32 @@ Currently working toward Senior Backend Engineer roles on large-scale, distribut
 
 **Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend**
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Backend & Database**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools & DevOps**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Testing & Docs**
-
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -153,5 +150,5 @@ Currently working toward Senior Backend Engineer roles on large-scale, distribut
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=80&section=footer"/>
 </p>
